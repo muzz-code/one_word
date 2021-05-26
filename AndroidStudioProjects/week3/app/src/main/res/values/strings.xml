@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">week 3</string>
+    <string name="see_more_button">see more</string>
+    <string name="myName">Pope</string>
+    <string name="address">ASANJO WAY, AJAH</string>
+    <string name="follow">follow Pope</string>
+    <string name="greeting">Good Morning!!!</string>
+</resources>
