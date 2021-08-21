@@ -11,9 +11,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         darkMode()
     }
+
     fun doSomething() {
     }
-
     fun darkMode() {
 
         var mode = findViewById<Switch>(R.id.switch1)
